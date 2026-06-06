@@ -4,13 +4,14 @@
 
 > - Biocalculus| Deliverable: code snippet of projects implemented \
 - Stats 110 with thinkstats for visualization| Deliverable: thinkstats python notebook and stats 110 R notebook  \
-- Fundamentals of statistics from MIT| Deliverable: solving problem sets in R and python if applicable  \
+- Introductory Statistics for the Life and Biomedical Science  \
 - Statistical rethinking from McElearth| Deliverable: First use of Julia alongside R  \
 - PK/PD data analysis combined with Rowland and Tozer| Deliverable: Notebooks of Python, R and Julia Implementation of key case studies  \
 - PMX africa MOOC| Deliverable: Certificate of completion  \
 - Capstone Project | Deliverable: Reproducing and simulating with a virtual senegalese population, a TDF/tacrolimus popk model; a TDF/tacrolimus pbpk model  \
 
 >>**Optional Additions for the fun of it XD**  \
+- Fundamentals of statistics from MIT| Deliverable: solving problem sets in R and python if applicable  \
 - Mathematical physiology from oxford mathematics  \
 - Feher's Quantitative Human physiology  \
 
